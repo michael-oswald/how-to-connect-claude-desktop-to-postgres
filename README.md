@@ -1,0 +1,1 @@
+# ollama-talks-to-postgres-privately
